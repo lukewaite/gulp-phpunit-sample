@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.0",
-    "gulp-phpunit": "^0.10.1"
+    "gulp-phpunit": "lukewaite/gulp-phpunit"
   }
 }
