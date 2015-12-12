@@ -1,5 +1,7 @@
 # gulp-phpunit-sample
 
+> This is a repository is intended to provide a space to reproduce issue https://github.com/mikeerickson/gulp-phpunit/issues/30
+
 ## Issue
 Due to the `! skip` test in [gulp-phpunit/index:205](https://github.com/mikeerickson/gulp-phpunit/blob/master/index.js#L205)
 the testSuite option is not appended to the phpunit command when invoked.
