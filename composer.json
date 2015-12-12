@@ -1,0 +1,12 @@
+{
+    "name": "lwaite/gulp-phpunit-sample",
+    "require": {
+        "phpunit/phpunit": "^5.1"
+    },
+    "authors": [
+        {
+            "name": "Luke Waite",
+            "email": "lwaite@gmail.com"
+        }
+    ]
+}
