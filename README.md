@@ -5,9 +5,11 @@ Due to the `! skip` test in [gulp-phpunit/index:205](https://github.com/mikeeric
 the testSuite option is not appended to the phpunit command when invoked.
 
 ## Branches
-Repository has two banches:
+Repository has two branches:
 * `master`
 * `fork`
+
+#### Don't forget to npm install between branches.
 
 ### Master Branch
 The master branch uses the most recent tagged release of `gulp-phpunit`.
